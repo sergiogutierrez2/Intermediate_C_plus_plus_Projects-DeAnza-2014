@@ -1,5 +1,6 @@
 # Intermediate_C_plus_plus_Projects-DeAnza-2014
-** These are assignments I did programming in C++ at an intermediate level in Fall of 2014. **
+
+**These are assignments I did programming in C++ at an intermediate level in Fall of 2014. **
 
 Here's a few pictures showing the kind of programming source code I would work on at this level:
 
